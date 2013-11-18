@@ -2,14 +2,20 @@ Charla/Taller OSM Xirivella
 ================================
 
 Este repo almacena las diapositivas utilizadas para mi charla sobre el proyecto
-OpenStreetMap para el Centro Jove de Xirivella.
+OpenStreetMap para Cuenca.
 
-La charla se ha realizado usando [impress.js](https://github.com/bartaz/impress.js/),
-[jquery](http://jquery.com) y [Syntax Highlighter](http://alexgorbatchev.com/SyntaxHighlighter/).
-
-Have a nice day!!
-
-Jorge Sanz
-
+La charla es un fork de 
+https://github.com/jsanz/slides-201205-osm-xirivella
+por
 [@xurxosanz](http://twitter.com/xurxosanz)
 http://jorgesanz.net  
+
+
+Actualizado para reflejar los siguientes cambios:
+
+- Editor iD en lugar de Potlach
+- Nueva interfaz de OSM
+- Ejemplos y lugares de Ecuador
+
+Daniel Orellana
+[@temporalista](http://twitter.com/temporalista)
