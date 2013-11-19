@@ -1,4 +1,4 @@
-Charla/Taller OSM Xirivella
+Charla/Taller OSM en Cuenca (Noviembre de 2013)
 ================================
 
 Este repo almacena las diapositivas utilizadas para mi charla sobre el proyecto
