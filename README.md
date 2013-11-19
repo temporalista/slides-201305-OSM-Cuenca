@@ -4,6 +4,8 @@ Charla/Taller OSM en Cuenca (Noviembre de 2013)
 Este repo almacena las diapositivas utilizadas para mi charla sobre el proyecto
 OpenStreetMap para Cuenca.
 
+http://temporalista.github.io/slides-201305-OSM-Cuenca/
+
 La charla es un fork de 
 https://github.com/jsanz/slides-201205-osm-xirivella
 por
